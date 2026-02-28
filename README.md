@@ -1,10 +1,10 @@
-<h1>Hi, I'm Amir 👋</h1>
+<h1>Hi, I'm Amir</h1>
 
-## About Me
+##  About Me
 I’m a Computer Engineering student at KTH with a strong interest in secure software development, distributed systems, and full-stack architecture.  
 I enjoy building structured, maintainable systems and understanding how security principles integrate into modern applications.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -29,7 +29,7 @@ I enjoy building structured, maintainable systems and understanding how security
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-## 📫 Connect with me
+## Connect with me
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-1BA0D7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirals)
 
